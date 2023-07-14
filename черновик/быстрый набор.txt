@@ -1,0 +1,25 @@
+1.lorem10-click tab
+2. Корисно! Для того, щоб дізнатися які атрибути доступні для тегу та призначення атрибутів, можна зайти в документацію або довідник, наприклад htmlreference.io
+3.https://html.spec.whatwg.org/multipage/
+4.https://htmlreference.io/
+5.https://caninclude.glitch.me/
+6.https://html.spec.whatwg.org/multipage/named-characters.html
+7.https://www.toptal.com/designers/htmlarrows/symbols/
+8.noopener
+9.css style--:    https://htmlcolorcodes.com/color-names/
+10. css style--:    https://htmlcolorcodes.com/color-picker/
+11.https://squoosh.app/
+12.vs pretty code
+{
+  "printWidth": 100,
+  "tabWidth": 2,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "bracketSpacing": true,
+  "jsxBracketSameLine": false,
+  "arrowParens": "avoid",
+  "proseWrap": "always",
+  "htmlWhitespaceSensitivity": "strict"
+}
